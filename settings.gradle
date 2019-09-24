@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='ulbra_gastos_pessoais'
